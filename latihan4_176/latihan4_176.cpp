@@ -11,7 +11,7 @@ float LuasSegitiga(float a, float t) {
 	return 0.5 * a * t;
 }
 
-int main() 
+int main()
 {
 	float panjang, lebar, jejari, alas, tinggi;
 	int pilihan;
@@ -56,7 +56,7 @@ int main()
 
 		}
 	} while (pilihan != 4);
-
+}
 
 
 
